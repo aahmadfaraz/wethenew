@@ -3,7 +3,7 @@ wethenew sneaker products price scraper
 
 **Setup**
 
-* Run below command first to clone the repo
+* Run below command first to clone the repo (in terminal/bash)
 
 $ git clone https://github.com/aahmadfaraz/wethenew.git
 
