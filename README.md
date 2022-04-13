@@ -22,3 +22,7 @@ $ `npm i`
 const productId = "DD1391-100";
 
 const size = '42';
+
+And lastly run the script by typing below command:
+
+`node index.js`
