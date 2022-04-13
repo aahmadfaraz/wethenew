@@ -25,4 +25,4 @@ const size = '42';
 
 And lastly run the script by typing below command:
 
-`node index.js`
+$ `node index.js`
