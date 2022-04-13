@@ -5,6 +5,7 @@ wethenew sneaker products price scraper
 
 $ npm install @bamblehorse/tiny
 
+
 **Usage**
 
 const wethenew = require("wethenew");
