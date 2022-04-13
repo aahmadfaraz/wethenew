@@ -1,6 +1,6 @@
 {
   "name": "wethenew",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "wethenew sneaker products price scraper",
   "repository": "aahmadfaraz/wethenew",
   "main": "index.js",
