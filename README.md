@@ -1,17 +1,20 @@
 # wethenew
 wethenew sneaker products price scraper
 
-**Install**
+**Setup**
 
-$ npm install wethenew
+$ npm i
+
+
+this will install all of the required dependencies.
 
 
 **Usage**
 
-const wethenew = require("wethenew");
+* Give product ID to `productId` variable And
+* size of the product to the `size` variable
 
-wethenew.getProductPrice(productId,size,headlessOption);
+Like this:
 
-* productId - (string) - Id of the product
-* size - (string) - size of the sneaker
-* headlesOption - (bool) - headless browser true or false
+const productId = "DD1391-100";
+const size = '42';
