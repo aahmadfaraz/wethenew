@@ -3,7 +3,7 @@ wethenew sneaker products price scraper
 
 **Install**
 
-$ npm install @bamblehorse/tiny
+$ npm install wethenew
 
 
 **Usage**
