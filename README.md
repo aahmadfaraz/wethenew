@@ -3,10 +3,13 @@ wethenew sneaker products price scraper
 
 **Setup**
 
+* Run below command first to clone the repo
+
+$ git clone https://github.com/aahmadfaraz/wethenew.git
+
+* let's install all of the required dependencies using:
+
 $ npm i
-
-
-* this will install all of the required dependencies.
 
 
 **Usage**
