@@ -12,9 +12,10 @@ this will install all of the required dependencies.
 **Usage**
 
 * Give product ID to `productId` variable And
-* size of the product to the `size` variable
+* Size of the product to the `size` variable
 
-Like this:
+**Like this**:
 
 const productId = "DD1391-100";
+
 const size = '42';
