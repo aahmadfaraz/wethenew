@@ -6,7 +6,7 @@ wethenew sneaker products price scraper
 $ npm i
 
 
-this will install all of the required dependencies.
+* this will install all of the required dependencies.
 
 
 **Usage**
