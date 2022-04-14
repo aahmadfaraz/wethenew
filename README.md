@@ -14,6 +14,8 @@ $ `npm i`
 
 **Usage**
 
+In index.js file
+
 * Give product ID to `productId` variable And
 * Size of the product to the `size` variable
 
